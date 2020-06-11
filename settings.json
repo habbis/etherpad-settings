@@ -186,7 +186,7 @@
     "user":     "etherpad",
     "host":     "localhost",
     "port":     3306,
-    "password": "QaNkiH8i7jWHNe",
+    "password": "test",
     "database": "etherpad",
     "charset":  "utf8mb4"
   },
